@@ -6,4 +6,3 @@
 ![image](https://github.com/MoonHyeonju/comento3/assets/100399677/fd887304-6dff-4b48-a9f8-9db9ecfcf536)
 
 
-## 3. SQL 작성
